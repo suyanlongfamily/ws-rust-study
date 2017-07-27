@@ -1,0 +1,15 @@
+[package]
+name = "study_ws"
+version = "0.1.0"
+authors = ["suyanlong <592938410@qq.com>"]
+
+[dependencies]
+ws = "*"
+url = "*"
+env_logger = "*"
+threadpool = "1.4"
+spmc = "0.2"
+num_cpus = "1.6.2"
+parking_lot = "0.4.4"
+uuid = "0.5"
+
